@@ -1,0 +1,19 @@
+com/example/social_media_integration/BuildConfig.java
+ com.example.social_media_integration.BuildConfig
+com/example/social_media_integration/First_Activity.java
+ com.example.social_media_integration.First_Activity
+ com.example.social_media_integration.First_Activity$1
+com/example/social_media_integration/Second_Activity.java
+ com.example.social_media_integration.Second_Activity
+ com.example.social_media_integration.Second_Activity$1
+ com.example.social_media_integration.Second_Activity$2
+com/example/social_media_integration/Third_activity.java
+ com.example.social_media_integration.Third_activity
+ com.example.social_media_integration.Third_activity$1
+ com.example.social_media_integration.Third_activity$2
+com/example/social_media_integration/MainActivity.java
+ com.example.social_media_integration.MainActivity
+ com.example.social_media_integration.MainActivity$1
+ com.example.social_media_integration.MainActivity$2
+ com.example.social_media_integration.MainActivity$3
+ com.example.social_media_integration.MainActivity$4
